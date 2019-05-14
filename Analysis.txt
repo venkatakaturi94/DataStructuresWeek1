@@ -1,0 +1,18 @@
+Task 0: 
+	http://bigocheatsheet.com/ according to this accessing an array is considered to be O(1) so My algorithm should be O(1)
+	
+Task 1 :
+	Overall Complexity : O(n)
+	Explanation : i have used for loops and list to set conversions both of these are considered to be O(n) run times but i have not used list conversion in for loop hence my algorithm will function in O(n) time but not O(n^2)
+
+Task 2:
+	Overall Complexity : O(n)
+	Explanation : Used only for loops whose time complexity is O(n) no for loop or builtin functions used inside for loop hence it makes the algorithm with time complexity O(n)
+
+Task 3:
+	Overall Complexity : O(n)
+	Explanation : Used only for loops whose time complexity is O(n) no for loop or builtin functions used inside for loop hence it makes the algorithm with time complexity O(n)
+	
+Task 3:
+	Overall Complexity : O(n^2)
+	Explanation : in line 27 3 "in"s are used inside for loop which iterates over the list again making complexity O(n^2)
